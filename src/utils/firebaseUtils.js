@@ -14,8 +14,7 @@ const firebaseConfig = {
 
 // VAPID key for Web Push
 const vapidKey =
-  "BLj4cX2Te1XHmNFYEse7LAoDcTP0lpriqZd0leekGZFKeI1m-qJzfVaBZhE0-qndR3myw7rDxiI7t2-US7T7n5A";
-
+  "BOeoSXVxtlauMyZNRtfUlDpkk5g7zUfxEIunbvt1T12clSj7wHFxnd5KAdQoAdZIyvvBu4481Z1zmDvmx9r3KLQ";
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const messaging = getMessaging(app);
